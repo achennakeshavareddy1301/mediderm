@@ -247,8 +247,8 @@ The authors acknowledge the use of publicly available datasets from DermNet, Mgm
 
 Project Repository:[ https://github.com/yourusername/skin-disease-diagnosis](https://github.com/achennakeshavareddy1301/mediderm)
 
-<img width="6778" height="3066" alt="p drawio" src="https://github.com/user-attachments/assets/eac110b0-6335-4751-a104-7e2a8397ca66" />
-<img width="5167" height="5388" alt="sample_predictions" src="https://github.com/user-attachments/assets/1f2e514d-c897-4b8e-8f38-5ce4b34143c6" />
+\<img width="5167" height="5388" alt="sample_predictions" src="https://github.com/user-attachments/assets/1f2e514d-c897-4b8e-8f38-5ce4b34143c6" />
+<img width="1207" height="991" alt="proj1-Page-3 drawio (2)" src="https://github.com/user-attachments/assets/2f2669c5-8bce-4109-b02d-0b36d46fe4ac" />
 
 <img width="4759" height="3564" alt="training_history (1)" src="https://github.com/user-attachments/assets/e56ff53f-eb9d-4d28-b128-a5af843e2c11" />
 <img width="3568" height="2672" alt="roc_curves" src="https://github.com/user-attachments/assets/a84c7ecc-fc23-42f9-a967-6afdf8fc050c" />
